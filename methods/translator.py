@@ -1,7 +1,8 @@
 from translate import Translator
 
 """
-Github: https://github.com/terryyin/translate-python
+Github: https://github.com/argosopentech/LibreTranslate-py
+Programma principale: https://github.com/LibreTranslate/LibreTranslate
 """
 
 

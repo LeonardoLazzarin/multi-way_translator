@@ -1,0 +1,348 @@
+{
+    "af": [
+        "GoogleTrans: Afrikaans"
+    ],
+    "sq": [
+        "GoogleTrans: Albanese"
+    ],
+    "am": [
+        "GoogleTrans: Amarico"
+    ],
+    "ar": [
+        "GoogleTrans: Arabo",
+        "LibreTranslateAPI: Arabic"
+    ],
+    "hy": [
+        "GoogleTrans: Armeno"
+    ],
+    "az": [
+        "GoogleTrans: Azero"
+    ],
+    "eu": [
+        "GoogleTrans: Basco"
+    ],
+    "be": [
+        "GoogleTrans: Bielorusso"
+    ],
+    "bn": [
+        "GoogleTrans: Bengalese"
+    ],
+    "bs": [
+        "GoogleTrans: Bosniaco"
+    ],
+    "bg": [
+        "GoogleTrans: Bulgaro"
+    ],
+    "ca": [
+        "GoogleTrans: Catalano"
+    ],
+    "ceb": [
+        "GoogleTrans: Cebuano"
+    ],
+    "zh-CN": [
+        "GoogleTrans: Cinese (semplificato)"
+    ],
+    "zh-TW": [
+        "GoogleTrans: Cinese (tradizionale)"
+    ],
+    "co": [
+        "GoogleTrans: Corso"
+    ],
+    "hr": [
+        "GoogleTrans: Croato"
+    ],
+    "cs": [
+        "GoogleTrans: Ceco"
+    ],
+    "da": [
+        "GoogleTrans: Danese"
+    ],
+    "nl": [
+        "GoogleTrans: Olandese"
+    ],
+    "en": [
+        "GoogleTrans: Inglese",
+        "LibreTranslateAPI: English"
+    ],
+    "eo": [
+        "GoogleTrans: Esperanto"
+    ],
+    "et": [
+        "GoogleTrans: Estone"
+    ],
+    "fi": [
+        "GoogleTrans: Finlandese"
+    ],
+    "fr": [
+        "GoogleTrans: Francese",
+        "LibreTranslateAPI: French"
+    ],
+    "fy": [
+        "GoogleTrans: Frisone"
+    ],
+    "gl": [
+        "GoogleTrans: Galiziano"
+    ],
+    "ka": [
+        "GoogleTrans: Georgiano"
+    ],
+    "de": [
+        "GoogleTrans: Tedesco",
+        "LibreTranslateAPI: German"
+    ],
+    "el": [
+        "GoogleTrans: Greco"
+    ],
+    "gu": [
+        "GoogleTrans: Gujarati"
+    ],
+    "ht": [
+        "GoogleTrans: Creolo haitiano"
+    ],
+    "ha": [
+        "GoogleTrans: Hausa"
+    ],
+    "haw": [
+        "GoogleTrans: Hawaiano"
+    ],
+    "he": [
+        "GoogleTrans: Ebraico"
+    ],
+    "hi": [
+        "GoogleTrans: Hindi",
+        "LibreTranslateAPI: Hindi"
+    ],
+    "hmn": [
+        "GoogleTrans: Hmong"
+    ],
+    "hu": [
+        "GoogleTrans: Ungherese"
+    ],
+    "is": [
+        "GoogleTrans: Islandese"
+    ],
+    "ig": [
+        "GoogleTrans: Igbo"
+    ],
+    "id": [
+        "GoogleTrans: Indonesiano",
+        "LibreTranslateAPI: Indonesian"
+    ],
+    "ga": [
+        "GoogleTrans: Irlandese",
+        "LibreTranslateAPI: Irish"
+    ],
+    "it": [
+        "GoogleTrans: Italiano",
+        "LibreTranslateAPI: Italian"
+    ],
+    "ja": [
+        "GoogleTrans: Giapponese",
+        "LibreTranslateAPI: Japanese"
+    ],
+    "jv": [
+        "GoogleTrans: Giavanese"
+    ],
+    "kn": [
+        "GoogleTrans: Kannada"
+    ],
+    "kk": [
+        "GoogleTrans: Kazako"
+    ],
+    "km": [
+        "GoogleTrans: Khmer"
+    ],
+    "rw": [
+        "GoogleTrans: Kinyarwanda"
+    ],
+    "ko": [
+        "GoogleTrans: Coreano",
+        "LibreTranslateAPI: Korean"
+    ],
+    "ku": [
+        "GoogleTrans: Curdo"
+    ],
+    "ky": [
+        "GoogleTrans: Kirghiso"
+    ],
+    "lo": [
+        "GoogleTrans: Lao"
+    ],
+    "la": [
+        "GoogleTrans: Latino"
+    ],
+    "lv": [
+        "GoogleTrans: Lettone"
+    ],
+    "lt": [
+        "GoogleTrans: Lituano"
+    ],
+    "lb": [
+        "GoogleTrans: Lussemburghese"
+    ],
+    "mk": [
+        "GoogleTrans: Macedone"
+    ],
+    "mg": [
+        "GoogleTrans: Malgascio"
+    ],
+    "ms": [
+        "GoogleTrans: Malese"
+    ],
+    "ml": [
+        "GoogleTrans: Malayalam"
+    ],
+    "mt": [
+        "GoogleTrans: Maltese"
+    ],
+    "mi": [
+        "GoogleTrans: Maori"
+    ],
+    "mr": [
+        "GoogleTrans: Marathi"
+    ],
+    "mn": [
+        "GoogleTrans: Mongolo"
+    ],
+    "my": [
+        "GoogleTrans: Myanmar (Birmania)"
+    ],
+    "ne": [
+        "GoogleTrans: Nepalese"
+    ],
+    "no": [
+        "GoogleTrans: Norvegese"
+    ],
+    "ny": [
+        "GoogleTrans: Nyanja (Chichewa)"
+    ],
+    "or": [
+        "GoogleTrans: Odia (Oriya)"
+    ],
+    "ps": [
+        "GoogleTrans: Pashto"
+    ],
+    "fa": [
+        "GoogleTrans: Persiano"
+    ],
+    "pl": [
+        "GoogleTrans: Polacco",
+        "LibreTranslateAPI: Polish"
+    ],
+    "pt": [
+        "GoogleTrans: Portoghese (Portogallo, Brasile)",
+        "LibreTranslateAPI: Portuguese"
+    ],
+    "pa": [
+        "GoogleTrans: Punjabi"
+    ],
+    "ro": [
+        "GoogleTrans: Rumeno"
+    ],
+    "ru": [
+        "GoogleTrans: Russo",
+        "LibreTranslateAPI: Russian"
+    ],
+    "sm": [
+        "GoogleTrans: Samoano"
+    ],
+    "gd": [
+        "GoogleTrans: Gaelico scozzese"
+    ],
+    "sr": [
+        "GoogleTrans: Serbo"
+    ],
+    "st": [
+        "GoogleTrans: Sesotho"
+    ],
+    "sn": [
+        "GoogleTrans: Shona"
+    ],
+    "sd": [
+        "GoogleTrans: Sindhi"
+    ],
+    "si": [
+        "GoogleTrans: Singalese (singalese)"
+    ],
+    "sk": [
+        "GoogleTrans: Slovak"
+    ],
+    "sl": [
+        "GoogleTrans: Sloveno"
+    ],
+    "so": [
+        "GoogleTrans: Somalo"
+    ],
+    "es": [
+        "GoogleTrans: Spagnolo",
+        "LibreTranslateAPI: Spanish"
+    ],
+    "su": [
+        "GoogleTrans: Sundanese"
+    ],
+    "sw": [
+        "GoogleTrans: Swahili"
+    ],
+    "sv": [
+        "GoogleTrans: Svedese"
+    ],
+    "tl": [
+        "GoogleTrans: Tagalog (filippino)"
+    ],
+    "tg": [
+        "GoogleTrans: Tagico"
+    ],
+    "ta": [
+        "GoogleTrans: Tamil"
+    ],
+    "tt": [
+        "GoogleTrans: Tartaro"
+    ],
+    "te": [
+        "GoogleTrans: Telugu"
+    ],
+    "th": [
+        "GoogleTrans: Tailandese"
+    ],
+    "tr": [
+        "GoogleTrans: Turco",
+        "LibreTranslateAPI: Turkish"
+    ],
+    "tk": [
+        "GoogleTrans: Turkmeno"
+    ],
+    "uk": [
+        "GoogleTrans: Ucraino"
+    ],
+    "ur": [
+        "GoogleTrans: Urdu"
+    ],
+    "ug": [
+        "GoogleTrans: Uiguro"
+    ],
+    "uz": [
+        "GoogleTrans: Uzbeco"
+    ],
+    "vi": [
+        "GoogleTrans: Vietnamita",
+        "LibreTranslateAPI: Vietnamese"
+    ],
+    "cy": [
+        "GoogleTrans: Gallese"
+    ],
+    "xh": [
+        "GoogleTrans: Xhosa"
+    ],
+    "yi": [
+        "GoogleTrans: Yiddish"
+    ],
+    "yo": [
+        "GoogleTrans: Yoruba"
+    ],
+    "zu": [
+        "GoogleTrans: Zulu"
+    ],
+    "zh": [
+        "LibreTranslateAPI: Chinese"
+    ]
+}
