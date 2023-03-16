@@ -1,4 +1,5 @@
 from methods.IMSLGraphLang import GraphLang
+from methods.googletrans import test_sentence_similarity
 from methods.mapLanguages import save_languages_on_file
 
 
@@ -45,4 +46,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    test_sentence_similarity()

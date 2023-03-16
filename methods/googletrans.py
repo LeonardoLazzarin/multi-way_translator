@@ -1,4 +1,6 @@
 from googletrans import Translator
+from sentence_transformers import SentenceTransformer, util
+
 from methods.IMSLGraphLang import GraphLang
 
 """
@@ -78,3 +80,31 @@ def test_googletrans():
     sent = "importo a credito sul prestito"
     recursive_translate(sent, gl.get_set_lang_pairs(), list_of_sent)
     print(list_of_sent)
+
+
+def test_sentence_similarity():
+    """Test the test similarity with googletrans"""
+    # SEQUENCE IT-RU-IT
+    start_sentences = ['La cameriera non si è divertita quando ha ordinato uova verdi e prosciutto.']
+    translator = Translator()
+    res = translator.translate(
+        start_sentences[0],
+        dest='ru', src='it'
+    )
+    res = translator.translate(res.text, dest='it', src='ru')
+    result_sentences = [res.text]
+
+    model = SentenceTransformer('all-MiniLM-L6-v2')
+    # Compute embedding for both lists
+    embeddings1 = model.encode(start_sentences, convert_to_tensor=True)
+    embeddings2 = model.encode(result_sentences, convert_to_tensor=True)
+
+    # Compute cosine-similarities
+    cosine_scores = util.cos_sim(embeddings1, embeddings2)
+
+    # Output the pairs with their score
+    for i in range(len(start_sentences)):
+        # print("{} \t\t {} \t\t Score: {:.4f}".format(start_sentences[i], result_sentences[i], cosine_scores[i][i]))
+        print(f'Start sentence: {start_sentences[0]}')
+        print(f'Result sentence: {result_sentences[0]}')
+        print('Score: {:.4f}\n'.format(cosine_scores[i][i]))
