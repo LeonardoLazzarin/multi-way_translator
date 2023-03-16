@@ -45,5 +45,4 @@ def main():
 
 
 if __name__ == '__main__':
-    # main()
-    save_languages_on_file('./json/languages.json')
+    main()
